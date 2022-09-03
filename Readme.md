@@ -13,7 +13,7 @@
 
 ###### 1.2 Wiring the Raspberry Pi with the DHT22 sensor:
 
-!(https://github.com/mrapanu/RabbitMQ_TH_Producer/blob/main/img/wiring_pi_dht22.png)
+![wiring pi with dht22](https://github.com/mrapanu/RabbitMQ_TH_Producer/blob/main/img/wiring_pi_dht22.png?raw=true)
 
 ###### 1.3 Starting the producer:
 ```
